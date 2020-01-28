@@ -1,1 +1,6 @@
 baseurl: /blog_test
+title: Baijs's blog
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
